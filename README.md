@@ -20,10 +20,10 @@
 
 <p align="center">
   <a href="https://github.com/farzanmosayyebi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farzanmosayyebi&show_icons=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farzanmosayyebi&show_icons=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/farzanmosayyebi">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanmosayyebi&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&size_weight=0.5&count_weight=0.5" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanmosayyebi&text_color=C3D1D9&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&size_weight=0.5&count_weight=0.5" />
   </a>
 </p>
 </details>
